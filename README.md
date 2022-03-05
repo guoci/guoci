@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:40px; height:40px; vertical-align:top; line-height:60px;" />
 
-<!--
+<!-- 👋
 **guoci/guoci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guoci&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoci&count_private=true&langs_count=15&layout=compact)
+![Visitors Counter](https://komarev.com/ghpvc/?username=guoci&style=for-the-badge&theme=dark&color=grey)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guoci&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoci&count_private=true&langs_count=15&layout=compact&theme=dark)
+
+![github readme streak](https://github-readme-streak-stats.herokuapp.com/?user=guoci&theme=dark)

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitors Counter](https://komarev.com/ghpvc/?username=guoci&style=for-the-badge&theme=dark&color=grey)
+![Visitors Counter](https://komarev.com/ghpvc/?username=guoci&style=for-the-badge&theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guoci&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoci&count_private=true&langs_count=15&layout=compact&theme=dark)

@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guoci&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoci&count_private=true&langs_count=15&layout=compact&theme=vision-friendly-dark)
 
-![github readme streak](https://github-readme-streak-stats.herokuapp.com/?user=guoci&theme=dark-minimalist&mode=weekly)
+![github readme streak](https://github-readme-streak-stats.herokuapp.com/?user=guoci&theme=deuteranopia-friendly-theme&mode=weekly)
 
 ![Visitors Counter](https://komarev.com/ghpvc/?username=guoci&style=for-the-badge&theme=dark)

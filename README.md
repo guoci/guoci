@@ -1,5 +1,7 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40px height=40px/>
 
+<img src="https://algora.io/og/user/guoci" />
+
 [🎓](https://scholar.google.com/citations?user=H_VVpP8AAAAJ)
 
 <!-- 👋
